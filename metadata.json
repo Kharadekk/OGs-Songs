@@ -1,0 +1,6 @@
+{
+  "name": "OGs Songs - Evergreen Golden Era",
+  "description": "An immersive nostalgic musical journey through legendary evergreen golden era melodies featuring an interactive vintage turntable, cassette tape deck, tube radio, and vinyl warmth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
